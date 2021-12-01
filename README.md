@@ -1,4 +1,4 @@
-### Hey, it's Ben! :vulcan_salute:
+# Hey, it's Ben! :vulcan_salute:
 
 - :hospital: I'm a software engineer at Acertara Labs where I design medical technology
 - :speech_balloon: Ask me about ML, Design patterns, Python, Hardware programming, or beer :beer:
